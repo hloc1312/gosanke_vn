@@ -1,0 +1,9 @@
+.koi{
+    background: url('../../../assets/images/bg_koi.jpg')
+     center no-repeat fixed;
+    background-size: cover;
+    position: relative;
+    padding: 100px 0 110px;
+    color: #CCC;
+    font-size: 14px;
+}

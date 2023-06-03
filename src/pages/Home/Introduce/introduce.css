@@ -1,0 +1,24 @@
+.introduce{
+    padding: 100px 0 80px;
+    background: url('../../../assets/images/bg_introduce.jpg') top right no-repeat fixed;
+}
+
+.introduce-wrapper{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.introduce-wrapper p{
+    margin: 10px 0 35px 0;
+}
+
+.introduce-img{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.introduce-img img{
+    width: 100%;
+    display: block;
+    
+}

@@ -1,0 +1,44 @@
+.company{
+    width: 80%;
+    margin: 0 auto;
+    
+}
+
+.facility.company{
+    background: none;
+    border:none;
+    padding-bottom: 60px;
+
+}
+
+.facility.company .title{
+    margin-top: 40px;
+
+}
+
+.company-left > div{
+    display: block;
+    padding: 13px 0;
+    border-bottom: 1px solid #ccc;
+    font-size: 14px;
+}
+
+.company-left > div:first-child{
+    border-top: 1px solid #ccc;
+}
+
+.company-left dt{
+    width: 20%;
+    display: inline-block;
+    vertical-align: middle;
+    letter-spacing: normal;
+    word-break: break-all;
+}
+
+.company-left dd{
+    vertical-align: middle;
+    display: inline-block;
+    width: 79%;
+    margin-left: 1%;
+    letter-spacing: normal;
+}

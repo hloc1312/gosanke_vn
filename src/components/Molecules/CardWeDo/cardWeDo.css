@@ -1,0 +1,34 @@
+.card-we-do-img{
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    margin-bottom: 15px;
+}
+
+.swiper-horizontal>.swiper-pagination-bullets, .swiper-pagination-bullets.swiper-pagination-horizontal, .swiper-pagination-custom, .swiper-pagination-fraction{
+    bottom: 27px;
+}
+
+.swiper-horizontal>.swiper-pagination-bullets .swiper-pagination-bullet, .swiper-pagination-horizontal.swiper-pagination-bullets .swiper-pagination-bullet{
+    margin: 0 4px;
+    border: solid 2px #fff;
+}
+
+.swiper-pagination-bullet{
+    width: 11px;
+    height: 11px;
+    display: inline-block;
+    border-radius: 50%;
+    background: #000;
+    opacity: 1;
+}
+
+.card-we-do-light .card-we-do-img:hover{
+    opacity: .8;
+}
+
+.swiper-pagination-bullet-active{
+    opacity: 1;
+    background: #a58001;
+}

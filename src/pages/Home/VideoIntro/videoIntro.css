@@ -1,0 +1,44 @@
+.video-intro{
+    position: relative;
+    padding-top: 56%;
+    background: #11111185;
+    color: #fff;
+}
+
+.video{
+    position: absolute;
+    top: 0;
+    left: 0;
+    /* height: 420px; */
+}
+
+.video-content{
+    position: absolute;
+    /* text-align: center; */
+    /* width: 100%; */
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-shadow: 2px 2px 6px #222;
+
+}
+
+.video-content img{
+    width: 200px;
+    height: 200px;
+    margin: 0 auto 2px;
+}
+
+.video-content h1{
+    font-size: 70px;
+    font-weight: 700;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+.video-content p{
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+    margin: 10px 0;
+}

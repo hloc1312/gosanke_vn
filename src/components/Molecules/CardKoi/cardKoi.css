@@ -1,0 +1,21 @@
+.card-koi-img{
+    width: 100%;
+    display: block;
+    height: auto;
+}
+
+.card-koi-year, .card-koi-quality{
+    text-align: center;
+    display: block;
+}
+
+.card-koi-year{
+    margin-top: -10px;
+    color: #a58001;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.card-koi-quality{
+    color: #fff;
+}
